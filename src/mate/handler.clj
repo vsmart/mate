@@ -9,7 +9,7 @@
    :miomiomate {:img "mio_mate.jpeg" :name "mio mio mate" :description "The classic mate."}
    :fritzmate {:img "fritz_mate.png" :name "fritz mate" :description "The classic mate."}
    :floramate {:img "flora_mate.png" :name "flora mate" :description "The classic mate."}
-   :charitea {:img "charitea.jpeg" :name "charitea mate" :description "The classic mate."}
+   :charitea {:img "charitea.jpg" :name "charitea mate" :description "The classic mate."}
    })
 
 (defn random-mate []
